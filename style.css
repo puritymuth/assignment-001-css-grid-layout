@@ -15,28 +15,48 @@ nav{
     grid-area: HEADER;
     text-align: center;
     border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
 }
 #leftsidebar{
     background-color: #55c855;
     grid-area: LEFT SIDEBAR;
     text-align: center;
     border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
 }
 main{
     background-color: #6fd80d;
     grid-area: MAIN CONTENT;
     text-align: center;
     border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
 }
 #rightsidebar{
     background-color: #55c855 ;
     grid-area: RIGHT SIDEBAR;
     text-align: center;
     border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
 }
 footer{
     background-color: #f8a218;
     grid-area: FOOTER;
     text-align: center;
     border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
 }
