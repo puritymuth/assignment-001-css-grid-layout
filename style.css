@@ -1,8 +1,8 @@
 .container{
     display: grid;
     height: 100vh;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 0.8fr 1.cm 0.8fr;
+    grid-template-columns: 1fr 2.5fr 1fr;
+    grid-template-rows: 0.8fr 1.5fr 0.8fr;
     grid-template-areas: 
        "HEADER HEADER HEADER"
        "LEFTSIDEBAR MAINCONTENT RIGHTSIDEBAR"
